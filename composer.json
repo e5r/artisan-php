@@ -1,0 +1,16 @@
+{
+    "config": {
+        "vendor-dir": "src/vendor"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.zendframework.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.3.*",
+        "zendframework/zend-mvc": "2.3.*"
+    }
+}
